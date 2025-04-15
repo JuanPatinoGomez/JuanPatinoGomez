@@ -1,6 +1,6 @@
 <h1>Hola :wave:</h1>
 
-<p>Mi nombre es Juan Jose Patiño Gómez soy de Colombia y actualmente me encuentro estudiando Tecnología en Desarrollo de Sistemas informáticos. :blue_book: :pencil2:</p>
+<p>Mi nombre es Juan Jose Patiño Gómez soy de Colombia y actualmente me encuentro estudiando Ingeniería en Sistemas. :blue_book: :pencil2:</p>
 <!--
 <p>Mi enfoque es el desarrollo web del lado del backend , me encanta resolver problemas y saber que lo que estoy aprendiendo :books: puede ser usado en cosas magnificas. :hibiscus:</p>
 
